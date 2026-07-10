@@ -169,6 +169,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +178,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
