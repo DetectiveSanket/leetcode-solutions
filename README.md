@@ -146,6 +146,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
