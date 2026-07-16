@@ -2,7 +2,9 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         
-        // char c = strs[0][0];
+// Pattern: Vertical Scanning
+// Time Complexity: O(N * M) where N is number of strings, M is length of the first string
+// Space Complexity: O(1) (excluding the output string)
 
         int n = strs[0].size();
         // cout << "size: " << n << endl;
