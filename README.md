@@ -181,6 +181,7 @@ Made with ❤️ by Sanket Talekar
 | [0011-container-with-most-water](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ Made with ❤️ by Sanket Talekar
 | [0014-longest-common-prefix](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -214,6 +216,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0015-3sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Greedy
