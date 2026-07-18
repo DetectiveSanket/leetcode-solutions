@@ -153,6 +153,7 @@ Made with ❤️ by Sanket Talekar
 | [0012-integer-to-roman](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -198,6 +199,7 @@ Made with ❤️ by Sanket Talekar
 | [0015-3sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -209,6 +211,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +222,7 @@ Made with ❤️ by Sanket Talekar
 | [0015-3sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Greedy
@@ -236,5 +240,6 @@ Made with ❤️ by Sanket Talekar
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
