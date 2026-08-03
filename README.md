@@ -134,6 +134,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
