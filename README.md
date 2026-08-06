@@ -164,6 +164,7 @@ Made with ❤️ by Sanket Talekar
 | [0387-first-unique-character-in-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## String
@@ -185,6 +186,7 @@ Made with ❤️ by Sanket Talekar
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@ Made with ❤️ by Sanket Talekar
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -267,6 +270,7 @@ Made with ❤️ by Sanket Talekar
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
