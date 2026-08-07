@@ -145,6 +145,7 @@ Made with ❤️ by Sanket Talekar
 | [0009-palindrome-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ Made with ❤️ by Sanket Talekar
 | [0013-roman-to-integer](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -204,6 +206,7 @@ Made with ❤️ by Sanket Talekar
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,4 +310,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
