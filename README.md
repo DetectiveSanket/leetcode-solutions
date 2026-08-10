@@ -228,6 +228,7 @@ Made with ❤️ by Sanket Talekar
 | [0015-3sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0035-search-insert-position](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -242,6 +243,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
