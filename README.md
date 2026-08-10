@@ -145,6 +145,7 @@ Made with ❤️ by Sanket Talekar
 | [0009-palindrome-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -244,6 +245,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -330,4 +332,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
