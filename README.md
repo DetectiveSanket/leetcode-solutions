@@ -252,6 +252,7 @@ Made with ❤️ by Sanket Talekar
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0278-first-bad-version](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -345,4 +346,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
