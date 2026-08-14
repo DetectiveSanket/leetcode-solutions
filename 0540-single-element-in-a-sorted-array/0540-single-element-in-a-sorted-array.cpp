@@ -4,7 +4,10 @@ public:
         
         int n = nums.size();
 
-        if(n < 2) {
+/*      
+   Time: O(N);
+
+         if(n < 2) {
             return nums[0];
         }
 
@@ -19,6 +22,32 @@ public:
                 return nums[i];
             }
         }
-        return 0;
+        return 0; 
+*/
+
+  // Approach :- Binary search
+  // Time :- O(log N);
+  // Space :- O(1);
+
+        int left = 0;
+        int right = n - 1;
+
+        while (left < right) {
+
+            int mid = left + (right - left) / 2;
+
+            if(mid % 2 == 1) {
+                mid--;
+            }
+
+            if(nums[mid] == nums[mid + 1]) {
+                left = mid + 2;
+            }
+            else {
+                right = mid;
+            }
+        }
+
+        return nums[left];
     }
 };
