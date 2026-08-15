@@ -246,6 +246,7 @@ Made with ❤️ by Sanket Talekar
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
@@ -327,6 +328,7 @@ Made with ❤️ by Sanket Talekar
 | [0020-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,4 +380,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
