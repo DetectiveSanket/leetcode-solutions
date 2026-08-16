@@ -224,6 +224,7 @@ Made with ❤️ by Sanket Talekar
 | [0005-longest-palindromic-substring](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0174-dungeon-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ Made with ❤️ by Sanket Talekar
 | [0035-search-insert-position](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0174-dungeon-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -334,6 +336,7 @@ Made with ❤️ by Sanket Talekar
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
