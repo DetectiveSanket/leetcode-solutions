@@ -387,4 +387,8 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0262-trips-and-users](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0262-trips-and-users/) | Hard |
 <!---LeetCode Topics End-->
