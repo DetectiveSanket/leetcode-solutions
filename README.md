@@ -149,6 +149,7 @@ Made with ❤️ by Sanket Talekar
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@ Made with ❤️ by Sanket Talekar
 | [0010-regular-expression-matching](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0174-dungeon-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
+| [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@ Made with ❤️ by Sanket Talekar
 | [1207-unique-number-of-occurrences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,4 +400,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0262-trips-and-users](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0262-trips-and-users/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 <!---LeetCode Topics End-->
