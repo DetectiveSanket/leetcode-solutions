@@ -192,6 +192,7 @@ Made with ❤️ by Sanket Talekar
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0071-simplify-path](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -333,6 +334,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
