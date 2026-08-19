@@ -149,6 +149,7 @@ Made with ❤️ by Sanket Talekar
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -233,6 +234,7 @@ Made with ❤️ by Sanket Talekar
 | [0010-regular-expression-matching](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0174-dungeon-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
+| [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -417,9 +419,26 @@ Made with ❤️ by Sanket Talekar
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
