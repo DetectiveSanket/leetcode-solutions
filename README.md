@@ -178,6 +178,7 @@ Made with ❤️ by Sanket Talekar
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [2716-minimize-string-length](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +205,7 @@ Made with ❤️ by Sanket Talekar
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2716-minimize-string-length](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
