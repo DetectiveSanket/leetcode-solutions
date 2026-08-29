@@ -19,7 +19,7 @@ This repository is a collection of every Data Structures and Algorithms problem 
 
 Rather than simply storing accepted solutions, I use this repository as a long-term learning journal to improve my problem-solving ability, algorithmic thinking, and coding consistency.
 
-Every solution is committed automatically after an accepted submission using LeetHub.
+Each solution is recorded with its approach name, time complexity, and space complexity.
 
 ---
 
