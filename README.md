@@ -205,6 +205,7 @@ Made with ❤️ by Sanket Talekar
 | [0771-jewels-and-stones](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -316,6 +317,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -351,6 +353,7 @@ Made with ❤️ by Sanket Talekar
 | [0155-min-stack](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -375,6 +378,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
