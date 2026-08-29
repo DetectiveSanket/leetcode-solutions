@@ -4,29 +4,50 @@ public:
 
   // Approach :- stack = Parentheses
   // Time :- O(N)
-  // Space :- O(1)
+  // Space :- O(N)
 
-        int count = 0;
-        stack<char> st;
+        // int count = 0;
+        // stack<char> st;
+
+        // for(char c : s) {
+
+        //     if(c == '(') {
+        //         st.push(c);
+        //         count++;
+        //     }
+
+        //     else {
+        //         if(st.empty()) {
+        //             count++;
+        //             continue;
+        //         }
+        //         else if(st.top() == '(') {
+        //             st.pop();
+        //             count--;
+        //         }
+        //     }
+        // }
+        // return count;
+
+// Optimal O(1) Space Solution (No Stack)
+
+        int open = 0;
+        int add = 0;
 
         for(char c : s) {
-
             if(c == '(') {
-                st.push(c);
-                count++;
+                open++;
             }
-
             else {
-                if(st.empty()) {
-                    count++;
-                    continue;
+                if(open > 0) {
+                    open--;
                 }
-                else if(st.top() == '(') {
-                    st.pop();
-                    count--;
+                else {
+                    add++;
                 }
             }
         }
-        return count;
+
+        return open + add;
     }
 };
