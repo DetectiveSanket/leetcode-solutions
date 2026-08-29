@@ -209,6 +209,7 @@ Made with ❤️ by Sanket Talekar
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2716-minimize-string-length](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 ## Sliding Window
@@ -360,6 +361,7 @@ Made with ❤️ by Sanket Talekar
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1544-make-the-string-great](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -382,6 +384,7 @@ Made with ❤️ by Sanket Talekar
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
