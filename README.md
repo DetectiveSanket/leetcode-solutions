@@ -204,6 +204,7 @@ Made with ❤️ by Sanket Talekar
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0771-jewels-and-stones](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0856-score-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -355,6 +356,7 @@ Made with ❤️ by Sanket Talekar
 | [0155-min-stack](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [0856-score-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -382,6 +384,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
