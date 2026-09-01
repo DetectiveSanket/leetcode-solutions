@@ -214,6 +214,7 @@ Made with ❤️ by Sanket Talekar
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2716-minimize-string-length](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2716-minimize-string-length/) | Easy |
 ## Sliding Window
@@ -235,6 +236,7 @@ Made with ❤️ by Sanket Talekar
 | [0349-intersection-of-two-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +329,7 @@ Made with ❤️ by Sanket Talekar
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +375,7 @@ Made with ❤️ by Sanket Talekar
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -399,6 +403,7 @@ Made with ❤️ by Sanket Talekar
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
