@@ -199,6 +199,7 @@ Made with ❤️ by Sanket Talekar
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0091-decode-ways](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -246,6 +247,7 @@ Made with ❤️ by Sanket Talekar
 | [0010-regular-expression-matching](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0091-decode-ways](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0174-dungeon-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0174-dungeon-game/) | Hard |
 | [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
