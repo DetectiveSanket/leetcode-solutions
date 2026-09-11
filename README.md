@@ -147,6 +147,7 @@ Made with ❤️ by Sanket Talekar
 | [0013-roman-to-integer](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0282-expression-add-operators](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0367-valid-perfect-square](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -203,6 +204,7 @@ Made with ❤️ by Sanket Talekar
 | [0115-distinct-subsequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0282-expression-add-operators](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -349,6 +351,7 @@ Made with ❤️ by Sanket Talekar
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0282-expression-add-operators](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0282-expression-add-operators/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
