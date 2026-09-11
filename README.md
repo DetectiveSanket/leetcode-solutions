@@ -239,6 +239,7 @@ Made with ❤️ by Sanket Talekar
 | [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -328,6 +329,7 @@ Made with ❤️ by Sanket Talekar
 | [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -401,6 +403,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -444,6 +447,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0155-min-stack](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,4 +506,8 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
