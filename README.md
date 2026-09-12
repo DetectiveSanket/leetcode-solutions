@@ -284,6 +284,7 @@ Made with ❤️ by Sanket Talekar
 | [0540-single-element-in-a-sorted-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -381,6 +382,7 @@ Made with ❤️ by Sanket Talekar
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -508,6 +510,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
