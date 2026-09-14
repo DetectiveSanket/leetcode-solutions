@@ -137,6 +137,7 @@ Made with ❤️ by Sanket Talekar
 | [0021-merge-two-sorted-lists](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +289,7 @@ Made with ❤️ by Sanket Talekar
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -386,6 +388,7 @@ Made with ❤️ by Sanket Talekar
 | [0856-score-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -511,6 +514,7 @@ Made with ❤️ by Sanket Talekar
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
