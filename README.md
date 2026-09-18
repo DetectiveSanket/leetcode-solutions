@@ -299,6 +299,7 @@ Made with ❤️ by Sanket Talekar
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -403,6 +404,7 @@ Made with ❤️ by Sanket Talekar
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
@@ -524,6 +526,7 @@ Made with ❤️ by Sanket Talekar
 | [0901-online-stock-span](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
