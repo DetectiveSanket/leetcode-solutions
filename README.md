@@ -300,6 +300,7 @@ Made with ❤️ by Sanket Talekar
 | [1539-kth-missing-positive-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -319,6 +320,7 @@ Made with ❤️ by Sanket Talekar
 | [0704-binary-search](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -343,6 +345,7 @@ Made with ❤️ by Sanket Talekar
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +410,7 @@ Made with ❤️ by Sanket Talekar
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +423,7 @@ Made with ❤️ by Sanket Talekar
 | [0239-sliding-window-maximum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +532,7 @@ Made with ❤️ by Sanket Talekar
 | [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
