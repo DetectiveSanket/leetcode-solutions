@@ -248,6 +248,7 @@ Made with ❤️ by Sanket Talekar
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -292,6 +293,7 @@ Made with ❤️ by Sanket Talekar
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -397,6 +399,7 @@ Made with ❤️ by Sanket Talekar
 | [0901-online-stock-span](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -529,6 +532,7 @@ Made with ❤️ by Sanket Talekar
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
