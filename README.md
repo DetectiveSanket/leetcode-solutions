@@ -247,6 +247,7 @@ Made with ❤️ by Sanket Talekar
 | [0349-intersection-of-two-arrays](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0556-next-greater-element-iii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -287,6 +288,7 @@ Made with ❤️ by Sanket Talekar
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -347,11 +349,13 @@ Made with ❤️ by Sanket Talekar
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -393,6 +397,7 @@ Made with ❤️ by Sanket Talekar
 | [0225-implement-stack-using-queues](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0682-baseball-game](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -530,6 +535,7 @@ Made with ❤️ by Sanket Talekar
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0962-maximum-width-ramp/) | Medium |
