@@ -155,6 +155,7 @@ Made with ❤️ by Sanket Talekar
 | [1510-stone-game-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@ Made with ❤️ by Sanket Talekar
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,4 +566,8 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
