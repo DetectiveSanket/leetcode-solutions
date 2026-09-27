@@ -184,6 +184,7 @@ Made with ❤️ by Sanket Talekar
 | [0771-jewels-and-stones](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -221,6 +222,7 @@ Made with ❤️ by Sanket Talekar
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -355,6 +357,7 @@ Made with ❤️ by Sanket Talekar
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -377,6 +380,7 @@ Made with ❤️ by Sanket Talekar
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0212-word-search-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0282-expression-add-operators](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0282-expression-add-operators/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +417,7 @@ Made with ❤️ by Sanket Talekar
 | [1019-next-greater-node-in-linked-list](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -565,6 +570,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
