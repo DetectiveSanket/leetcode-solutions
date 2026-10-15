@@ -170,6 +170,7 @@ Made with ❤️ by Sanket Talekar
 | [0012-integer-to-roman](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -204,6 +205,7 @@ Made with ❤️ by Sanket Talekar
 | [0020-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0091-decode-ways](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -281,6 +283,7 @@ Made with ❤️ by Sanket Talekar
 | [0033-search-in-rotated-sorted-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0162-find-peak-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -352,6 +355,7 @@ Made with ❤️ by Sanket Talekar
 | [0015-3sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
