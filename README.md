@@ -179,6 +179,7 @@ Made with ❤️ by Sanket Talekar
 | [0350-intersection-of-two-arrays-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -217,6 +218,7 @@ Made with ❤️ by Sanket Talekar
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0383-ransom-note](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0771-jewels-and-stones](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -242,6 +244,7 @@ Made with ❤️ by Sanket Talekar
 | [0003-longest-substring-without-repeating-characters](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
