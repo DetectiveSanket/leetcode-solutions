@@ -171,6 +171,7 @@ Made with ❤️ by Sanket Talekar
 | [0013-roman-to-integer](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -209,6 +210,7 @@ Made with ❤️ by Sanket Talekar
 | [0032-longest-valid-parentheses](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0076-minimum-window-substring](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -242,6 +244,7 @@ Made with ❤️ by Sanket Talekar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/DetectiveSanket/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
